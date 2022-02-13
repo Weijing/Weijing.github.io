@@ -11,16 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.Eng.(First Class Honor), in Nanyang Technological University, 2010
-* M.S. in Carnegie Mellon University, 2014
 * Ph.D. in Carnegie Mellon University, 2017
+* M.S. in Carnegie Mellon University, 2014
+* B.Eng.(First Class Honor), in Nanyang Technological University, 2010
 
 Experience
 ======
-* 2017- Now: Research Scientist
+* 2021-now: Staff Engineer
+  * Alibaba Group, DAMO Academy
+  
+* 2017-2021: Research Scientist
   * Institute of Infocomm Research, A\*STAR
   * Institute of High Performance Computing, A\*STAR
   * A*STAR Artificial Intelligence and Data Analytics
+
+* 2015-2018: Co-Founder and Chief Engineer
+  * Beijing EwayBot
   
 * 2010-2012: Research Engineer
   * Singapore Institute of Manufacturing Technology
