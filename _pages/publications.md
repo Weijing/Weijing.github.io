@@ -5,11 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 Full list available: [Google Scholar](https://scholar.google.com/citations?hl=en&user=12L_IZMAAAAJ).
+### 2023
+**27\.** Yuan Zhou, Gengjie Lin, Yun Tang, Kairui Yang, **Wei Jing**, Ping Zhang, Junbo Chen, Liang Gong, Yang Liu, “Flyover: A model-driven method to generate diverse highway interchanges for autonomous vehicle testing”, _ICRA 2023_, [link](https://arxiv.org/pdf/2301.12738) 
+
 ### 2022
+**26\.** Lingping Gao, Ziqing Gu, Cong Qiu, Lanxin Lei, Shengbo Eben Li, Sifa Zheng, **Wei Jing**, Junbo Chen, “Cola-HRL: Continuous-Lattice Hierarchical Reinforcement Learning for Autonomous Driving”, _IROS 2022_, [link](https://ieeexplore.ieee.org/document/9982041) 
+
+**25\.** Yunkai Wang, Dongkun Zhang, Yuxiang Cui, Zexi Chen, **Wei Jing**, Junbo Chen, Rong Xiong, Yue Wang, “Domain Generalization for Vision-based Driving Trajectory Generation”, _ICRA 2022_, [link](https://ieeexplore.ieee.org/document/9812070) 
+
 **24\.** En Yen Puang, Hao Zhang, Hongyuan Zhu, **Wei Jing**, “Hierarchical Point Cloud Encoding and Decoding with Lightweight Self-Attention based Model
 ”, _IEEE Robotics and Automation Letters, 2022_, [link](https://ieeexplore.ieee.org/abstract/document/9707674) 
 
-**23\.** Hao Zhang, Aixin Sun, **Wei Jing**, Joey Tianyi Zhou,  “The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions”, _arxiv_, [link](https://arxiv.org/abs/2201.08071) 
+**23\.** Hao Zhang, Aixin Sun, **Wei Jing**, Joey Tianyi Zhou,  “The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions”, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, [link](https://arxiv.org/abs/2201.08071) 
 ### 2021
 **22\.** Xiaofeng Fan, Yining Ma, Zhongxiang Dai, **Wei Jing**, Cheston Tan, Bryan Kian Hsiang Low, “Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee”, _Neurips 2021_, [link](https://arxiv.org/abs/2110.14074) 
 
