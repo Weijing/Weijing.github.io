@@ -17,8 +17,14 @@ Education
 
 Experience
 ======
-* 2021-now: Staff Engineer
-  * Alibaba Group, DAMO Academy
+* 2025-now:  
+  * Robotics and AI Startup.
+
+* 2023-2024: Head of R&D 
+  * Family Robotics, Fuxi, NetEase Inc.
+
+* 2021-2023: Team Lead and Staff Engineer
+  *  Autonomous Driving Dept, DAMO Academy,  Alibaba Group
   
 * 2017-2021: Research Scientist
   * Institute of Infocomm Research, A\*STAR
