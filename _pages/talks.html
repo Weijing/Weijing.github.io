@@ -5,10 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
+{% endif %}
+
+{% if site.talks.size == 0 %}
+<p>Invited talks and presentations will be updated here soon. In the meantime, please see my <a href="{{ base_path }}/publications/">Publications</a> and <a href="{{ base_path }}/cv/">CV</a>.</p>
 {% endif %}
 
 {% for post in site.talks reversed %}
